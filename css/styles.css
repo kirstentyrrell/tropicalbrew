@@ -1,0 +1,79 @@
+@charset "UTF-8";
+body {
+	background-color: #E0DCDE;
+	background-image: url(../../fullwidth-template/img/1500x606%20love%20coffee.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: actor;
+	font-style: normal;
+	font-weight: 400;
+}
+.asideLeft  {
+	width: 30%;
+}
+.sectionRight {
+	width: 30%;
+	float: right;
+	background-color: 00000;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	margin-right: 5%;
+	margin-left: 1%;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,0.00) 99.68%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,0.00) 99.68%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,0.00) 99.68%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,0.00) 99.68%);
+}
+navlistitema:hover {
+	color: #AAB1F2;
+	background-color: #000000;
+}
+footer {
+	font-size: small
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,0.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,0.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,0.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,0.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+nav {
+	background-color: #FFFFFF;
+}
+.navlist {
+	list-style-type: none;
+	overflow: hidden;
+}
+.navlist {
+}
+.navlistitem  {
+	float: left;
+}
+.navlistitem a {
+	text-decoration: none;
+	display: block;
+	padding-top: 16px;
+	padding-right: 16px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+	color: #3E1704;
+}
+.container-fluid .navbar-header .navbar-brand {
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	color: #402401;
+}
+.formStyle {
+	width: 100%;
+}
